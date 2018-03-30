@@ -289,3 +289,20 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+/* Custom styling */
+body {
+  font-family: helvetica, sans-serif;
+  font-size: 100%;
+  color: #333;
+}
+
+a {
+  color: #333;
+}
+
+.wrapper {
+  max-width: 1100px;
+  margin: 1em auto;
+  text-align: center;
+}
